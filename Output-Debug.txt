@@ -1,0 +1,36 @@
+﻿'HT4.exe' (Win32): Loaded 'C:\Users\Vitalik\Desktop\3 курс\TRSPO\HT4\Debug\HT4.exe'. Symbols loaded.
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msmpi.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mswsock.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdsapi.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\authz.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dsparse.dll'. 
+The thread 0x3a8 has exited with code 0 (0x0).
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\NapiNSP.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\pnrpnsp.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wshbth.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nlaapi.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IPHLPAPI.DLL'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dnsapi.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nsi.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winrnr.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\FWPUCLNT.DLL'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rasadhlp.dll'. 
+'HT4.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+The thread 0x54d8 has exited with code 0 (0x0).
+The thread 0x47c8 has exited with code 0 (0x0).
+The thread 0x55a0 has exited with code 0 (0x0).
+The program '[7680] HT4.exe' has exited with code 0 (0x0).

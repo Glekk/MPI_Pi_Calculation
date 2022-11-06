@@ -1,0 +1,2 @@
+mpiexec -n 6 HT4.exe
+pause

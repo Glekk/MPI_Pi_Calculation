@@ -1,0 +1,3 @@
+﻿  HT4.cpp
+C:\Users\Vitalik\Desktop\3 курс\TRSPO\HT4\HT4\HT4.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HT4.vcxproj -> C:\Users\Vitalik\Desktop\3 курс\TRSPO\HT4\Debug\HT4.exe
